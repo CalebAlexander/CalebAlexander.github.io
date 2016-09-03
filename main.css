@@ -24,13 +24,13 @@ body {
 .jumbotron {
     
     
-    /*
+    
     background-image: url("file://C:\Users\caleb_000\OneDrive\Personal Projects\WebDesign\MyFirstWebsite\IMG_1041.png") repeat;
     height: 100%;
     -webkit-background-size: cover;
      -moz-background-size: cover;
        -o-background-size: cover;
-          background-size: cover;*/
+          background-size: cover;
 }
 
 .menu ul {
